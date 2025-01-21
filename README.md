@@ -3,6 +3,7 @@
 Created by: Amaury Quilliec
 
 This plugin allows you to display alerts in a Vue application. It can be called directly via the methods `$alertSuccess`, `$alertError`, and `$alertWarning`.
+I made it for my personal projects, but feel free to use it in your own projects (at your own risk and may not be suitable for production).
 
 ## Example Usage
 
