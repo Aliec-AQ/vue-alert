@@ -1,4 +1,4 @@
-# Alert Plugin for Vue Application
+# Alert Plugin for Vue Application ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 Created by: Amaury Quilliec
 
