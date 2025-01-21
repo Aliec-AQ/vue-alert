@@ -1,0 +1,36 @@
+/*
+ * CSS général pour les alertes
+ * Créé par : Amaury Quilliec
+ */
+
+.alert-container {
+    position: fixed;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+}
+
+.alert {
+    padding: 10px;
+    color: white;
+    background-color: gray;
+    border-bottom: 1px solid white;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+.alert-info {
+    background-color: #2196F3;
+}
+
+.alert-success {
+    background-color: #4CAF50;
+}
+
+.alert-warning {
+    background-color: #FF9800;
+}
+
+.alert-error {
+    background-color: #F44336;
+}
